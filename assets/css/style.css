@@ -69,10 +69,23 @@ p {
     margin-left: 25px;
 }
 
+.contentSOS {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff; 
+}
+
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+}
+
+.contentSOS img {
+    max-height: 200px;
 }
 
 .benefits {
@@ -86,7 +99,7 @@ p {
     background-color: #2589bd;
 }
 
-.benefits {
+.benefits p {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -102,34 +115,44 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+
+/* .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
+} */
 
-.online-reputation-management {
+/* .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
+} */
 
-.social-media-marketing {
+/* .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
+} */
 
-.search-engine-optimization img {
+/* .content {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff; 
+} */
+
+/* .search-engine-optimization img {
     max-height: 200px;
 }
 
@@ -139,9 +162,13 @@ p {
 
 .social-media-marketing img {
     max-height: 200px;
-}
+} */
+/* 
+.contentSOS img{
+    max-height: 200px;
+} */
 
-.search-engine-optimization h2 {
+/* .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -154,7 +181,7 @@ p {
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
+} */
 
 .footer {
     padding: 30px;
